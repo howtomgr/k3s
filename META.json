@@ -1,0 +1,62 @@
+{
+  "category": "orchestration",
+  "created_date": "2025-09-15T22:48:57.879620",
+  "default_ports": [
+    80,
+    443,
+    6443,
+    10250
+  ],
+  "dependencies": [],
+  "description": "k3s is a free and open-source lightweight Kubernetes distribution. K3s provides a production-ready Kubernetes distribution optimized for edge, IoT, and resource-constrained environments, serving as a lightweight alternative to full Kubernetes",
+  "difficulty_level": "intermediate",
+  "documentation_url": "https://howtomgr.github.io/orchestration/k3s",
+  "estimated_setup_time": "15-30 minutes",
+  "features": [
+    "multi-os-support",
+    "comprehensive-documentation",
+    "security-hardening",
+    "performance-optimization",
+    "backup-restore-procedures",
+    "troubleshooting-guides"
+  ],
+  "guide_path": "/orchestration/k3s",
+  "installation_methods": [
+    "native-packages",
+    "source-compilation"
+  ],
+  "last_updated": "2025-09-15T22:48:57.879642",
+  "license": "Open Source",
+  "maintenance_status": "active",
+  "name": "k3s",
+  "repository_url": "https://github.com/howtomgr/k3s",
+  "spec_version": "2.0",
+  "subcategory": "orchestration",
+  "supported_os": [
+    "rhel",
+    "centos",
+    "rocky",
+    "almalinux",
+    "debian",
+    "ubuntu",
+    "arch",
+    "alpine",
+    "opensuse",
+    "sles",
+    "macos",
+    "freebsd",
+    "windows"
+  ],
+  "tags": [
+    "orchestration",
+    "containerization",
+    "observability",
+    "data-storage",
+    "networking",
+    "security",
+    "data-protection"
+  ],
+  "title": "k3s Installation Guide",
+  "version": "1.0.0",
+  "website_url": "https://howtomgr.github.io/orchestration/k3s"
+}
